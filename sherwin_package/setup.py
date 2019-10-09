@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sherwin_homework_package",
-    version="0.0.1",
+    version="0.0.2",
     author="Sherwin Shann",
     author_email="sherwin.shann@gmail.com",
     description="A small example package",

@@ -1,0 +1,7 @@
+README.md
+setup.py
+sherwin_homework_package/__init__.py
+sherwin_homework_package.egg-info/PKG-INFO
+sherwin_homework_package.egg-info/SOURCES.txt
+sherwin_homework_package.egg-info/dependency_links.txt
+sherwin_homework_package.egg-info/top_level.txt
